@@ -18,6 +18,8 @@ We need to cover these languages and tools:
 - Python with Robot
 - C# with NUnit
 
+made with love from Argentina
+
 
 ## Resources
 This is the [Notion page](https://ulimoralez.notion.site/Zebrunner-Implementations-Resources-88a0b5e2caba42a581443d7cc72d05b1) with the global resources.
